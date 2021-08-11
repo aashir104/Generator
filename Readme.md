@@ -1,4 +1,4 @@
-# readme
+# Readme
 ## Version 1.0
 ## Description
 
@@ -11,8 +11,8 @@
   * [Contribution](#contribution)
 * [email](#email)
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ## Test
-test using terminal command node index.js
+for test you have to use terminal and the following node command node index.js
 ## Contribution
-everyone is able to contribute to this
+anyone is allowed to contribyute
