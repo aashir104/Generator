@@ -1,0 +1,27 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "[Create a README file based on user's inputs]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashirjaved",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aashir104/Generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator",
+    "inquirer"
+  ],
+  "bugs": {
+    "url": "https://github.com/aashir104/Generator.git"
+  },
+  "homepage": "https://github.com/aashir104/Generator.git"
+}
